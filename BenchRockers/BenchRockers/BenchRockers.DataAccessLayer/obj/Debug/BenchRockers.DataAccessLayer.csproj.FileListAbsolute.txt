@@ -1,0 +1,10 @@
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\obj\Debug\BenchRockers.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\bin\Debug\BenchRockers.DataAccessLayer.dll.config
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\bin\Debug\BenchRockers.DataAccessLayer.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\bin\Debug\BenchRockers.DataAccessLayer.pdb
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\bin\Debug\BenchRockers.Common.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\bin\Debug\BenchRockers.Common.pdb
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\obj\Debug\BenchRockers.DataAccessLayer.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.DataAccessLayer\obj\Debug\BenchRockers.DataAccessLayer.pdb

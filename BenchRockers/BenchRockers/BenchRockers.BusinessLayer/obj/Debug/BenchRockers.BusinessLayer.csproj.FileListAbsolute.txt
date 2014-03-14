@@ -1,0 +1,14 @@
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\BenchRockers.BusinessLayer.dll.config
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\BenchRockers.BusinessLayer.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\BenchRockers.BusinessLayer.pdb
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\BenchRockers.Common.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\BenchRockers.DataAccessLayer.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\BenchRockers.Common.pdb
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\BenchRockers.DataAccessLayer.pdb
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\obj\Debug\BenchRockers.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\obj\Debug\BenchRockers.BusinessLayer.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.BusinessLayer\obj\Debug\BenchRockers.BusinessLayer.pdb

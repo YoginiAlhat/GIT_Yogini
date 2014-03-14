@@ -1,0 +1,8 @@
+c:\users\yalhat\documents\visual studio 2012\Projects\BenchRockers\BenchRockers.Logger\bin\Debug\BenchRockers.Logger.dll
+c:\users\yalhat\documents\visual studio 2012\Projects\BenchRockers\BenchRockers.Logger\bin\Debug\BenchRockers.Logger.pdb
+c:\users\yalhat\documents\visual studio 2012\Projects\BenchRockers\BenchRockers.Logger\obj\Debug\BenchRockers.Logger.dll
+c:\users\yalhat\documents\visual studio 2012\Projects\BenchRockers\BenchRockers.Logger\obj\Debug\BenchRockers.Logger.pdb
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.Logger\bin\Debug\BenchRockers.Logger.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.Logger\bin\Debug\BenchRockers.Logger.pdb
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.Logger\obj\Debug\BenchRockers.Logger.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.Logger\obj\Debug\BenchRockers.Logger.pdb

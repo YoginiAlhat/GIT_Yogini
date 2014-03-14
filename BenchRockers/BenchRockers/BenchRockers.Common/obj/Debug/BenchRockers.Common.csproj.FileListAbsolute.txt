@@ -1,0 +1,4 @@
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.Common\bin\Debug\BenchRockers.Common.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.Common\bin\Debug\BenchRockers.Common.pdb
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.Common\obj\Debug\BenchRockers.Common.dll
+C:\Users\yalhat\Documents\Visual Studio 2012\Projects\BenchRockers\BenchRockers\BenchRockers.Common\obj\Debug\BenchRockers.Common.pdb
